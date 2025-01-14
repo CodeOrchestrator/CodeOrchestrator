@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-
-**CodeOrchestrator/CodeOrchestrator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/CodeOrchestrator/CodeOrchestrator/images/me.webp" alt="Marton Lederer" />
+</h1>
 
 Here are some ideas to get you started:
 
