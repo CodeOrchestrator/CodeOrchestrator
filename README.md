@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/CodeOrchestrator/CodeOrchestrator/main/images/me.webp" alt="Shukurillo Khudoyberganov" width="500" />
+  <img src="https://raw.githubusercontent.com/CodeOrchestrator/CodeOrchestrator/main/images/me.webp" alt="Shukurillo Khudoyberganov" />
 </h1>
 
 Here are some ideas to get you started:
