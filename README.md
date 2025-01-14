@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/CodeOrchestrator/CodeOrchestrator/images/me.webp" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/CodeOrchestrator/CodeOrchestrator/main/images/me.webp" alt="Shukurillo Khudoyberganov" />
 </h1>
 
 Here are some ideas to get you started:
