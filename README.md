@@ -9,6 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Code_Smith_Craft
 - 💬 Ask me about VueJs and ReactJs
 - 📫 How to reach me: @shukurillokhudoyberganov by telegram or instagram
-- 😄 Pronouns:#
-- ⚡ Fun fact: #
 
