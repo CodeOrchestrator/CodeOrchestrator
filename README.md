@@ -1,6 +1,6 @@
 Here are some ideas to get you started:
 
-- 🇺🇿 I'm from UZBEKISTAN
+- 🇺🇿 I'm from UZBEKISTAN region FERGANA
 - 💼 I’m full-stack developer
 - 🤖 I'm working vue.js laravel technologies
 - 💬 Ask me about VueJs and Laravel
