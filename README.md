@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @shukurillokhudoyberganov by telegram
 - 🔥 Motto: quality is always first
 - 🦾 Goal: to become a senior programmer
+
