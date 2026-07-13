@@ -1,9 +1,9 @@
-Here are some ideas to get you started:
+## 👋 About Me
 
-🇺🇿 I'm from UZBEKISTAN region FERGANA.
-💼 I’m full-stack developer.
-🤖 I'm working vue.js laravel flutter technologies.
-💬 Ask me about Flutter VueJs and Laravel.
-📫 How to reach me: @shukurillokhudoyberganov by telegram.
-🔥 Motto: quality is always first.
-🦾 Goal: to become a senior programmer.
+🇺🇿 Based in <b>Fergana, Uzbekistan</b><br>
+💼 Junior Full-Stack Developer<br>
+📱 Working with <b>Flutter</b>, <b>Laravel</b>, and <b>Vue.js</b><br>
+💬 Ask me about <b>Flutter</b>, <b>Laravel</b>, and <b>Vue.js</b><br>
+📫 Telegram: <b>@shukurillokhudoyberganov</b><br>
+⚡ Motto: <b>Quality always comes first.</b><br>
+🎯 Goal: <b>Become a Senior Software Engineer</b>
